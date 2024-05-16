@@ -1,18 +1,21 @@
 public class Operadores {
   public static void main(String[] args) {
+
+
+    
     // //Operadores Lógicos
+    /* 
+    boolean condicao1 = true;
+    boolean condicao2 = false;
 
-    // boolean condicao1 = true;
-    // boolean condicao2 = false;
-
-    // if (condicao1 && condicao2) {
-    //   System.out.println("as duas condições são verdadeiras");
-    // } else if (condicao1 || condicao2) {
-    //   System.out.println("uma das duas condições é verdadeira");
-    // } else {
-    //   System.out.println("nenhuma é verdadeira");
-    // }
-
+    if (condicao1 && condicao2) {
+      System.out.println("as duas condições são verdadeiras");
+    } else if (condicao1 || condicao2) {
+     System.out.println("uma das duas condições é verdadeira");
+     } else {
+       System.out.println("nenhuma é verdadeira");
+    }
+    */
     // // Relacionais
     // int numero1 = 5;
     // int numero2 = 10;
