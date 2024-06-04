@@ -8,7 +8,7 @@ public class FormatadorDeCep {
             System.out.println("O cep não correspondem as regras de negócio");
         }
     }
-    static String formatarCep(String cep) throws CepInvalidoException{
+    public static String formatarCep(String cep) throws CepInvalidoException{
             if (cep.length() =! 8) 
             throw new CepInvalidoException();        
 
