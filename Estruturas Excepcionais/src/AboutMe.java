@@ -23,7 +23,7 @@ public class AboutMe {
 
         System.out.println("Olá me chamo " + nome.toUpperCase() + " " + sobreNome.toUpperCase());
         System.out.println("Tenho " + idade + " anos.");
-        System.out.println("Minha altura é " + "cm");
+        System.out.println("Minha altura é " + altura + "cm");
         }
         catch (InputMismatchException e){
             System.out.println("Os campos idade e altura devem ser numéricos");
